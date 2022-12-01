@@ -1,12 +1,12 @@
 <h3>Hi 👋, I'm Muhmmad Ali Raza Khan</h3>
 
-<p>I am a passionate Software Engineer, experienced in frontend development. I like working on and exploring JavaScript technologies and frameworks.</p>
+<p>I am an impassioned Software Engineer, experienced in Mobile Application development. I always like to exploring new technologies and frameworks.</p>
 
 - 🔭 I’m currently working on [WebHR](https://web.hr/)
 
-- 🖥 I’m currently learning **React Native**
+- 🖥 I’m currently learning **Flutter**
 
-- 💬 Ask me about **ReactJS, React Native**
+- 💬 Ask me about **Android, React Native**
 
 - 📫 How to reach me **ali67744@gmail.com**
 
@@ -16,7 +16,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,nextjs,androidstudio,mongodb,figma,firebase,gatsby,js,ps,ts,cpp,html&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=reactative,redux,nodejs,androidstudio,mongodb,flutter,firebase&theme=light)](https://skillicons.dev)
 
 
 <h3 align="center">Connect with me</h3>
